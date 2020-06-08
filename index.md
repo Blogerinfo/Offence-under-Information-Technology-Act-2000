@@ -19,5 +19,20 @@ In Information Technology Act 2000 Chapter 11, Section 65 to 78 says about Offen
 1. Tampering with Computer Sources Docucment
 2. Hacking with Computer System
 3. Computer Related Offences
-4. 
+4. Punishment for sending offencive Message though communiction services
+5. Punishment for dishonestly receving stolen computer Rescource or communication devices
+6. Punishment for identity theft
+7. Punishment for cheating by personation by using computer resources
+8. Punishment for violation of privacy
+9. Punishment for cyber terrorism
+10. Publishing of information which is obscene in electronic form
+11. Punishment for publishing of transmitting obscence material in electronic form
+12. Punishment for publishing or transmitting of material containing sexually explicit act,etc in electronic form
+13. Punishment for publishing or transmitting of material depicting children in sexually explicit act,etc in electronic form
+14. Preservation and retention of information by intermediaries
+15. Penalty for misrepresentation
+16. Penalty for breach of confidentially and privacy
+17. Punishment for disclosure of information in breach of lawful contract
+18.  Penalty for publishing digital signature certificate false in certain particulars
+19. Publication for fraudulent purpose
 
