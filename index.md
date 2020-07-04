@@ -14,11 +14,27 @@ In Information Technology Act 2000 Chapter 11, Section 65 to 78 says about Offen
 5. Substitution for new section 77
 6. Amentment on section 78
 
-|Kinds of Offences|Punishment|Cognizable/Non-cognizable|Bailable/Non-Bailable offences|By what court Triable|
-|:-------|:----------------------|:-------------------------|:------------------------------|:---------------------|
-|Tampering with Computer Source Document|punishable with imprisonment up to three years,or with fine which may extend up to two lakhe rupees,or with both|Cognizable|Bailable|Magistrate of the first class|
-|Hacking with Computer System|punishable with imprisonment up to three years, or with fine which may extend upto two lakh rupees, or with both|Cognizable|Bailable|Magistrate of the first class| 
-
+|Kinds of Offences|Punishment|Cognizable/Non-cognizable|Bailable/Non-Bailable offences|
+|:-------|:----------------------|:-------------------------|:------------------------------|
+|Tampering with Computer Source Document|punishable with imprisonment up to three years,or with fine which may extend up to two lakhe rupees,or with both|Cognizable|Bailable|
+|Hacking with Computer System|punishable with imprisonment up to three years, or with fine which may extend upto two lakh rupees, or with both|Cognizable|Bailable|
+|Computer related offences|punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both|Cognizable|Bailable|
+|Punishment for sending offencive messages through communication services etc|punishable with imprisonment for a term which may extend to two three years and with fine|Cognizable|Bailable|
+|Punishment for dishonestly receving stolen computer resources or communication devices|
+|Punishment for identify theft|
+|punishment for cheating by persontion by computer resources|
+|punishment for violation of privacy|
+|Punishment for cyber terrorism|
+|Punishment of information hich is obscene in electronic form|
+|punishment for publishing or teansmitting obsene material in electronic form|
+|Punishment for publuishing or material containig sexually explicit act, etc ,in electronic form|
+|Punishment for publishing or transmitting of material depicting childern in sexually explicit act in electronic form|
+|Penalty for misrepresention|
+|Penalty for breach of confidentiality and privacy|
+|Punishment for disclosure of information in breach of lawful contract|
+|Penalty for publishing digital signature certificate false in certain particular|
+|Publication for fraudulent purpose|
+|Penalties or confiscation not interfere with other punishments|
 
 
 
