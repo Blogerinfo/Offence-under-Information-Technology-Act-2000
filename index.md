@@ -1,8 +1,4 @@
-# Offence under Information Technology Act 2000
-
-## Introduction
-
-Information Technology Act was enacted in India and got assent from president on 9th June 2000 and it came into commencement on 17th october 2000, There is one majour Amendment in information Technology on 2008 till date.The main aim of information Technology Act is to give Legal Recognisation for transation which is carried out through Electronic communication.To Know the history of Information Technology Act we have to go through UNCITRL Model Law On Electronic Commerces.This Act also made a change in our Indian evidence ACt,Indian Peanal Code,The Reserve Bank Of India Act,The Banker's Book Evidences Act.
+  Information Technology Act was enacted in India and got assent from president on 9th June 2000 and it came into commencement on 17th october 2000, There is one majour Amendment in information Technology on 2008 till date.The main aim of information Technology Act is to give Legal Recognisation for transationation which is carried out through Electronic communication.To Know the history of Information Technology Act we have to go through UNCITRL Model Law On Electronic Commerces.This Act also made a change in our Indian evidence ACt,Indian Peanal Code,The Reserve Bank Of India Act,The Banker's Book Evidences Act.
 
 ## Sections and its Amendment in Information Technology Act 2000
 
@@ -26,15 +22,15 @@ In Information Technology Act 2000 Chapter 11, Section 65 to 78 says about Offen
 |punishment for violation of privacy|punishable with imprisonment up to three years, or with fine which may extend upto two lakh rupees, or with both|Cognizable|Bailable|
 |Punishment for cyber terrorism|punishable with imprisonment which may extend to imprisonment for life||Bailable|
 |Punishment of information which is obscene in electronic form|In first conviction accuset is punishable with imprisonment with maximum five years and with fine which may extent to one lakh rupess and in second conviction accuest  is punishable with imprisonment to ten years and also fine wihich may extent to two lakh rupees||Non Bailable|
-|punishment for publishing or transmitting obsene material in electronic form|
-|Punishment for publuishing or material containig sexually explicit act, etc ,in electronic form|
-|Punishment for publishing or transmitting of material depicting childern in sexually explicit act in electronic form|
-|Penalty for misrepresention|
-|Penalty for breach of confidentiality and privacy|
-|Punishment for disclosure of information in breach of lawful contract|
-|Penalty for publishing digital signature certificate false in certain particular|
-|Publication for fraudulent purpose|
-|Penalties or confiscation not interfere with other punishments|
+|punishment for publishing or transmitting obsene material in electronic form|In first conviction accuset is punishable with imprisonment with maximum three years and with fine which may extent to five lakh rupess and in second conviction accuest  is punishable with imprisonment to five years and also fine wihich may extent to ten lakh rupees||Bailable|
+|Punishment for publuishing or material containig sexually explicit act, etc ,in electronic form|In first conviction accuset is punishable with imprisonment with maximum three years and with fine which may extent to five lakh rupess and in second conviction accuest  is punishable with imprisonment to five years and also fine wihich may extent to ten lakh rupees||Bailable|
+|Punishment for publishing or transmitting of material depicting childern in sexually explicit act in electronic form|In first conviction accuset is punishable with imprisonment with maximum three years and with fine which may extent to five lakh rupess and in second conviction accuest  is punishable with imprisonment to five years and also fine wihich may extent to ten lakh rupees||Bailable|
+|Penalty for misrepresention|punishable with imprisonment up to two years,or with fine which may extend up to one lakhe rupees,or with both|Cognizable|Bailable|
+|Penalty for breach of confidentiality and privacy|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+|Punishment for disclosure of information in breach of lawful contract|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+|Penalty for publishing digital signature certificate false in certain particular|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+|Publication for fraudulent purpose|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+
 
 
 
