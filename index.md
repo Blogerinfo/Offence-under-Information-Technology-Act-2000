@@ -14,6 +14,13 @@ In Information Technology Act 2000 Chapter 11, Section 65 to 78 says about Offen
 5. Substitution for new section 77
 6. Amendment on section 78
 
+## Note
+* Cognizable offence     :Cognizable offences are those where a police officer can arrest without warrant.
+* Non Cognizable offence :Non cognizable offences are those, where a police officer cannot arrest without a warrant.
+* Bailable offences      :A bailable offence is one, in which, bail is a matter of righ.
+* Non Bailable offence   :Non bailable offence is one, in which granting of bail is discretion of the court.
+
+
 |Kinds of Offences|Punishment|Cognizable/Non-cognizable|Bailable/Non-Bailable offences|
 |:-------|:----------------------|:-------------------------|:------------------------------|
 |Tampering with Computer Source Document|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable|
