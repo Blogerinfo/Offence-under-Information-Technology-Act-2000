@@ -30,26 +30,26 @@ In Information Technology Act 2000 Chapter 11, Section 65 to 78 says about Offen
 * Non Bailable offence   :Non bailable offence is one, in which granting of bail is discretion of the court.
 
 
-|Kinds of Offences|Punishment|Cognizable/Non-cognizable|Bailable/Non-Bailable offences|
-|:-------|:----------------------|:-------------------------|:------------------------------|
-|Tampering with Computer Source Document|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable|
-|Hacking with Computer System|punishable with imprisonment up to three years, or with fine which may extend upto two lakh rupees, or with both|Cognizable|Bailable|
-|Computer related offences|punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both|Cognizable|Bailable|
-|Punishment for sending offensive messages through communication services etc|punishable with imprisonment for a term which may extend to two three years and with fine|Cognizable|Bailable|
-|Punishment for dishonestly receiving stolen computer resources or communication devices|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable|
-|Punishment for identity theft|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable
-|punishment for cheating by personation by computer resources|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable|
-|punishment for violation of privacy|punishable with imprisonment up to three years, or with fine which may extend upto two lakh rupees, or with both|Cognizable|Bailable|
-|Punishment for cyber terrorism|punishable with imprisonment which may extend to imprisonment for life|Cognizable|Non Bailable|
-|Punishment of information which is obscene in electronic form|In first conviction its punishable with imprisonment with maximum five years and with fine which may extend to one lakh rupees and in second conviction its punishable with imprisonment to ten years and also fine which may extend to two lakh rupees|Cognizable|Bailable|
-|punishment for publishing or transmitting obscene material in electronic form|In first conviction its punishable with imprisonment with maximum three years and with fine which may extend to five lakh rupees and in second conviction its punishable with imprisonment to five years and also fine which may extend to ten lakh rupees|Cognizable|Bailable in case of first conviction only. Second or subsequent conviction shall be non bailable|
-|Punishment for publishing or material containing sexually explicit act, etc ,in electronic form|In first conviction its punishable with imprisonment with maximum three years and with fine which may extend to five lakh rupees and in second conviction its punishable with imprisonment to five years and also fine which may extend to ten lakh rupees|Cognizable|Non-bailable in both first and second conviction|
-|Punishment for publishing or transmitting of material depicting children in sexually explicit act in electronic form|In first conviction its punishable with imprisonment with maximum three years and with fine which may extent to five lakh rupees and in second conviction its punishable with imprisonment to five years and also fine which may extend to ten lakh rupees|Cognizable|Non-bailable in both first and second conviction|
-|Penalty for misrepresentation|punishable with imprisonment up to two years,or with fine which may extend up to one lakhe rupees,or with both|Cognizable|Non Bailable|
-|Penalty for breach of confidentiality and privacy|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
-|Punishment for disclosure of information in breach of lawful contract|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
-|Penalty for publishing digital signature certificate false in certain particular|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
-|Publication for fraudulent purpose|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+|Section|Kinds of Offences|Punishment|Cognizable/Non-cognizable|Bailable/Non-Bailable offences|
+|:--|:-------|:----------------------|:-------------------------|:------------------------------|
+|Sec 65|Tampering with Computer Source Document|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable|
+|Sec|Hacking with Computer System|punishable with imprisonment up to three years, or with fine which may extend upto two lakh rupees, or with both|Cognizable|Bailable|
+|Section 66|Computer related offences|punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both|Cognizable|Bailable|
+|Sec 66A|Punishment for sending offensive messages through communication services etc|punishable with imprisonment for a term which may extend to two three years and with fine|Cognizable|Bailable|
+|Sect 66B|Punishment for dishonestly receiving stolen computer resources or communication devices|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable|
+|Sec 66C|Punishment for identity theft|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable
+|Sec 66D|punishment for cheating by personation by computer resources|punishable with imprisonment up to three years,or with fine which may extend up to two lakh rupees,or with both|Cognizable|Bailable|
+|Sec 66E|punishment for violation of privacy|punishable with imprisonment up to three years, or with fine which may extend upto two lakh rupees, or with both|Cognizable|Bailable|
+|Sec 66F|Punishment for cyber terrorism|punishable with imprisonment which may extend to imprisonment for life|Cognizable|Non Bailable|
+||Punishment of information which is obscene in electronic form|In first conviction its punishable with imprisonment with maximum five years and with fine which may extend to one lakh rupees and in second conviction its punishable with imprisonment to ten years and also fine which may extend to two lakh rupees|Cognizable|Bailable|
+|Sec 67|punishment for publishing or transmitting obscene material in electronic form|In first conviction its punishable with imprisonment with maximum three years and with fine which may extend to five lakh rupees and in second conviction its punishable with imprisonment to five years and also fine which may extend to ten lakh rupees|Cognizable|Bailable in case of first conviction only. Second or subsequent conviction shall be non bailable|
+|Sec 67A|Punishment for publishing or material containing sexually explicit act, etc ,in electronic form|In first conviction its punishable with imprisonment with maximum three years and with fine which may extend to five lakh rupees and in second conviction its punishable with imprisonment to five years and also fine which may extend to ten lakh rupees|Cognizable|Non-bailable in both first and second conviction|
+|Sec 67B|Punishment for publishing or transmitting of material depicting children in sexually explicit act in electronic form|In first conviction its punishable with imprisonment with maximum three years and with fine which may extent to five lakh rupees and in second conviction its punishable with imprisonment to five years and also fine which may extend to ten lakh rupees|Cognizable|Non-bailable in both first and second conviction|
+|Sec 71|Penalty for misrepresentation|punishable with imprisonment up to two years,or with fine which may extend up to one lakhe rupees,or with both|Cognizable|Non Bailable|
+|Sec72|Penalty for breach of confidentiality and privacy|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+|Sec 72A|Punishment for disclosure of information in breach of lawful contract|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+|Sec 73|Penalty for publishing digital signature certificate false in certain particular|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
+|Sec 74|Publication for fraudulent purpose|punishable with imprisonment for a term which may extend to two years, or with fine which may extend to one lakh rupees, or with both|Cognizable|Bailable|
 
 
 
